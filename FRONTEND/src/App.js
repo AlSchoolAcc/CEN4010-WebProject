@@ -9,7 +9,7 @@ import genClick from './components/GenreList';
 
 
 
-=======
+
 import ShoppingCart from './components/ShoppingCart'
 import WishList from './components/WishList'
 import UserReview from './components/UserReview'
